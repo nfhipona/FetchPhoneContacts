@@ -57,7 +57,8 @@ class ViewController: UIViewController {
                             }
                             
                             // Lets log
-                            print("givenName: \(contact.givenName), middleName: \(contact.middleName), familyName: \(contact.familyName), phoneNumbers: \(phoneNumbers), emailAddresses: \(emailAddresses)\n")
+                            
+                            print("identifier: \(contact.identifier), givenName: \(contact.givenName), middleName: \(contact.middleName), familyName: \(contact.familyName), phoneNumbers: \(phoneNumbers), emailAddresses: \(emailAddresses)\n")
                         }
                     }
                 })
