@@ -43,8 +43,7 @@ Lets request for contacts access grant
                 // Request fetch contacts
             }
         }
-
-
+        
 ```
 
 Fetch contacts when user grants the app an access
