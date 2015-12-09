@@ -12,6 +12,7 @@
 		F5647CE61C1858FA0033DD4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5647CE41C1858FA0033DD4D /* Main.storyboard */; };
 		F5647CE81C1858FA0033DD4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5647CE71C1858FA0033DD4D /* Assets.xcassets */; };
 		F5647CEB1C1858FA0033DD4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5647CE91C1858FA0033DD4D /* LaunchScreen.storyboard */; };
+		F5647CF31C1859210033DD4D /* ContactsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5647CF21C1859210033DD4D /* ContactsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F5647CE71C1858FA0033DD4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5647CEA1C1858FA0033DD4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5647CEC1C1858FA0033DD4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5647CF21C1859210033DD4D /* ContactsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContactsManager.swift; path = ../ContactsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F5647CE01C1858FA0033DD4D /* AppDelegate.swift */,
 				F5647CE21C1858FA0033DD4D /* ViewController.swift */,
+				F5647CF21C1859210033DD4D /* ContactsManager.swift */,
 				F5647CE41C1858FA0033DD4D /* Main.storyboard */,
 				F5647CE71C1858FA0033DD4D /* Assets.xcassets */,
 				F5647CE91C1858FA0033DD4D /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5647CE31C1858FA0033DD4D /* ViewController.swift in Sources */,
+				F5647CF31C1859210033DD4D /* ContactsManager.swift in Sources */,
 				F5647CE11C1858FA0033DD4D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
