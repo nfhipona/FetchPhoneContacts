@@ -88,4 +88,4 @@ Fetch contacts when user grants the app an access
 
 ## License
 
-FetchPhoneContacts is available under the MIT license, see the [LICENSE](https://github.com/nferocious76/FetchPhoneContacts/blob/master/README.md) file for more information.
+FetchPhoneContacts is available under the MIT license, see the [LICENSE](https://github.com/nferocious76/FetchPhoneContacts/blob/master/LICENSE) file for more information.
